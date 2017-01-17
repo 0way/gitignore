@@ -1,4 +1,4 @@
-#File Folder ngoại lệ không sysn với project
+#File Folder ngoại lệ không sysn với project github
 Nơi set các file hay folder không đồng bộ (sync từ GitHub Desktop) các thay đổi của các file,folder này với server. 
 
 
