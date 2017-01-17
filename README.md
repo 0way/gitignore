@@ -1,3 +1,7 @@
+##File Folder ngoại lệ không sysn với project
+Nơi set các file hay folder không đồng bộ (sync từ GitHub Desktop) các thay đổi của các file,folder này với server. 
+
+
 # A collection of `.gitignore` templates
 
 This is GitHub’s collection of [`.gitignore`][man] file templates.
